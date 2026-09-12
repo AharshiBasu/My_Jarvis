@@ -1,0 +1,20 @@
+Music = {"bones": "https://youtu.be/ZNsPYmkSPeI?list=RDZNsPYmkSPeI",
+         "believer": "https://youtu.be/W0DM5lcj6mw?list=RDW0DM5lcj6mw",
+         "heat": "https://www.youtube.com/watch?v=rfTgO9rpqck&list=RDrfTgO9rpqck&start_radio=1&pp=ygUKaGVhdCB3YXZlc6AHAQ%3D%3D",
+         "shape": "https://www.youtube.com/watch?v=erd3fTm-2t8&list=RDerd3fTm-2t8&start_radio=1&pp=ygUKc2hhcGUgb2YgdaAHAQ%3D%3D",
+         "my": "https://youtu.be/p79GmLNLMrY?list=RDp79GmLNLMrY",
+         "500": "https://www.youtube.com/watch?v=7oGwOiQsjso&list=RD7oGwOiQsjso&start_radio=1&pp=ygUJNTAwIG1pbGVzoAcB",
+         "marguerita": "https://youtu.be/IufsocTXfMY?list=RDIufsocTXfMY",
+         "sun": "https://www.youtube.com/watch?v=g5sbTHMP0Ig&list=RDg5sbTHMP0Ig&start_radio=1&pp=ygUTc3Vuc2hpbmUgb24gbXkgZmFjZaAHAQ%3D%3D",
+         "solitude": "https://www.youtube.com/watch?v=05AHPFPpHIM&list=RD05AHPFPpHIM&start_radio=1&pp=ygUdc29saXR1ZGUgc3RhbmRzIGJ5IHRoZSB3aW5kb3egBwE%3D",
+         "jamaica": "https://youtu.be/Zh1ow6zKapQ?list=RDZh1ow6zKapQ",
+         "night": "https://www.youtube.com/watch?v=I3IcQsfC7jA&list=RDI3IcQsfC7jA&start_radio=1&pp=ygUNbmlnaHQgY2hhbmdlc6AHAQ%3D%3D",
+         "faitytale": "https://www.youtube.com/watch?v=WXwgZL4zx9o&list=RDWXwgZL4zx9o&start_radio=1&pp=ygUJZmFpcnl0YWxloAcB",
+         "arcade": "https://www.youtube.com/watch?v=308v08mFWWc&list=RD308v08mFWWc&start_radio=1&pp=ygUGYXJjYWRloAcB",
+         "past": "https://www.youtube.com/watch?v=iNa1n6Gch7E&list=RDiNa1n6Gch7E&start_radio=1&pp=ygUKcGFzdCBsaXZlc6AHAQ%3D%3D",
+         "senorita": "https://www.youtube.com/watch?v=Pkh8UtuejGw&list=RDPkh8UtuejGw&start_radio=1&pp=ygUIc2Vub3JpdGGgBwE%3D",
+         "et" : "https://www.youtube.com/watch?v=t5Sd5c4o9UM&list=RDt5Sd5c4o9UM&start_radio=1&pp=ygUCZXSgBwHSBwkJGgwBhyohjO8%3D",
+         "under": "https://www.youtube.com/watch?v=CXlr7NqVhro&list=RDCXlr7NqVhro&start_radio=1&pp=ygUTdW5kZXIgdGhlIGluZmx1ZW5jZaAHAQ%3D%3D",
+         "sky" : "https://www.youtube.com/watch?v=sZrTJesvJeo&list=RDsZrTJesvJeo&start_radio=1"
+}
+
